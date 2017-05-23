@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Privacy Agreement
 
-You can use the [editor on GitHub](https://github.com/zhenguideng/zhenguideng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Privacy Statement makes commitment to protect users privacy。Given to the characteristics of mobile products and websites,you will inevitably have a direct or indirect interaction，it is hereby collection, use and protection of personal information policy we adopted, please read carefully:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### User's non-personal information
 
-### Markdown
+When you download and use this mobile application，we do not require you to provide any information, we do not collect any personal information, in addition to non-personal information, such as your device type, operating system type, to provide you with access to services ISP's domain, so as to optimize the pages on your device's screen, giving you a better experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We do not knowingly contact or collect personal information from children under 13 years of age.
 
-```markdown
-Syntax highlighted code block
+Non-personal information collected by third parties may include the following technical data:
 
-# Header 1
-## Header 2
-### Header 3
+Operating system (such as Android, IOS, etc)
+Browser (such as Firefox, Chrome browser, Safari browser, etc.)
+Screen resolution (eg 800 × 600,1024 × 768, etc.)
+Language (such as English)
+Equipment suppliers (such as Samsung, HTC, iPhone, etc.)
+Location - just a general location may be collected. No precise location information. ...
 
-- Bulleted
-- List
+### Changes of the Privacy Agreement
 
-1. Numbered
-2. List
+We are subject to change this privacy agreement. Please check regularly for any changes. Any amendment after you continue to access and use the service to post, remove or other change our privacy policy, will constitute your acceptance of, acknowledge and agree that each change.
+### Contact us
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhenguideng/zhenguideng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or concerns on our Privacy Policy, please contact us: cherry.cc775@gmail.com
